@@ -1,0 +1,21 @@
+p {
+    color: red;
+}
+
+
+h1 {
+
+	color:  #008800;
+	font-family: arial;
+	font-size: 60px;
+	margin: 60px;
+}
+
+h2 {
+	border-style: solid;
+    border-width: 3px;
+    border-left-width: 20px;
+    border-right-width: 10px;
+    border-color: red;
+
+}
